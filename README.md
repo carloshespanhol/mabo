@@ -1,4 +1,4 @@
-# Sky (default) WonderCMS theme 2022
+# Mabo WonderCMS theme 2023
 Fully responsive.
 
 ## Preview
